@@ -5,30 +5,16 @@
 I'm a front-end developer from Cachoeirinha, Brazil.<br />
 My current focus is on the front-end but I don't stop studying about mobile and back-end, which I really like too! 
 
-* I'm majoring in Systems Analyst (technologist) 🧑‍🎓
-
-<br />
+* I'm majoring in Systems Analyst (technologist) 🧑‍🎓 <br />
 
 #### My current tools
 
 🌎 Front-end Web (HTML, CSS, JavaScript, ReactJs)<br />
 📱 Mobile (React Native)<br />
 ⚙️ Back-end (NodeJS)<br />
-🛠️ Typescript
-
-<br />
-
- **Technologies I'm Studying:**
-
-<p align="left">
-  <code><img src="https://user-images.githubusercontent.com/51785898/91357834-3eb8df00-e7c8-11ea-9936-0ce666ac2a11.png" alt="JS" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/51785898/91357843-411b3900-e7c8-11ea-8161-3e8191a6cde2.png" alt="React.js" width="60" height="40" /></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/51785898/91357850-44162980-e7c8-11ea-966c-a7ebaba08ba3.png" alt="Node.js" width="40" height="40"/></code>&nbsp;<br />
-  <br />
-  <code><img src="https://user-images.githubusercontent.com/51785898/91358426-3319e800-e7c9-11ea-9df0-b5a207cecfce.png" alt="Typescript" width="40" height="40"/></code>&nbsp; 
-  <code><img src="https://user-images.githubusercontent.com/51785898/91357841-3fea0c00-e7c8-11ea-91de-947891a2dec6.png" alt="Docker" width="40" height="40" /></code>&nbsp;  
-  <code><img src="https://user-images.githubusercontent.com/51785898/91358353-0cf44800-e7c9-11ea-9a54-0a988aa2837c.png" alt="Github" width="40" height="40"/></code>&nbsp;
-</p>
+🛠️ Typescript<br />
+💾 Mongo<br />
+🧰 And more...
 
 <br />
 
