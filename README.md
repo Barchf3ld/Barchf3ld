@@ -9,7 +9,8 @@ My current focus is on the front-end but I don't stop studying about mobile and 
 
 <br />
 
-**My current tools**
+#### My current tools
+
 🌎 Front-end Web (HTML, CSS, JavaScript, ReactJs)
 📱 Mobile (React Native)
 ⚙️ Back-end (NodeJS)
