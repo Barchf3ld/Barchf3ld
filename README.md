@@ -5,7 +5,8 @@
 I'm a front-end developer from Cachoeirinha, Brazil.<br />
 My current focus is on the front-end but I don't stop studying about mobile and back-end, which I really like too! 
 
-* I'm majoring in Systems Analyst (technologist) 🧑‍🎓 <br />
+* Graduated in Systems Analyst (technologist) 🧑‍🎓 <br />
+* Studying for a postgraduate degree in Software Engineering <br />
 
 #### My current tools
 
